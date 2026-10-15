@@ -1,4 +1,4 @@
-### Hi, I'm Santiago 👋
+### Hi, I'm Santiago 
 
 **Technical Writer** in Madrid, specializing in API, integration, and platform documentation. Bilingual English/Spanish (C2).
 
